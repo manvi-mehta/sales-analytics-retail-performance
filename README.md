@@ -128,5 +128,5 @@ sales-analytics-retail-performance
 
 Manvi Mehta
 
-MBA Business Analytics
+BBA Business Analytics
 Manipal Academy of Higher Education
