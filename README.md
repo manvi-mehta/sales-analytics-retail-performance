@@ -131,5 +131,4 @@ sales-analytics-retail-performance
 
 Manvi Mehta
 
-Business Analytics Graduate
-Manipal Academy of Higher Education
+Business Analytics Graduate  | Data Analytics Enthusiast
