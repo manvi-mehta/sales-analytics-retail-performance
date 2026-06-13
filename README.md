@@ -30,35 +30,6 @@ Raw Data → ETL Pipeline → Data Warehouse → SQL Analysis → Power BI Dashb
 4. SQL-based Business Analysis
 5. Interactive Power BI Dashboard Creation
 
-Raw CSV Dataset
-
-        │
-        
-        ▼
-Python ETL Pipeline
-(Data Cleaning & Transformation)
-
-        │
-        
-        ▼
-MySQL Star Schema Data Warehouse
-(Dimensions + Fact Table)
-
-        │
-        
-        ▼
-SQL Business Analysis
-
-        │
-        ▼
-        
-Power BI Interactive Dashboard
-
-        │
-        ▼
-        
-Business Insights & Recommendations
-
 ---
 
 ## Data Warehouse Design
