@@ -73,15 +73,15 @@ Raw Data → ETL Pipeline → Data Warehouse → SQL Analysis → Power BI Dashb
 
 ---
 
-### Customer Insights
-
-![Customer Insights](Dashboard/Customer%20Insights.png)
-
----
-
 ### Product Performance
 
 ![Product Performance](Dashboard/Product%20Performance.png)
+
+---
+
+### Customer Insights
+
+![Customer Insights](Dashboard/Customer%20Insights.png)
 
 ---
 
