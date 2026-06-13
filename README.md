@@ -12,7 +12,7 @@ Raw Data → ETL Pipeline → Data Warehouse → SQL Analysis → Power BI Dashb
 
 ---
 
-## Tools & Technologies
+## Tech Stack
 
 - Python (Pandas)
 - MySQL
@@ -30,9 +30,30 @@ Raw Data → ETL Pipeline → Data Warehouse → SQL Analysis → Power BI Dashb
 4. SQL-based Business Analysis
 5. Interactive Power BI Dashboard Creation
 
+Raw CSV Dataset
+        │
+        ▼
+Python ETL Pipeline
+(Data Cleaning & Transformation)
+        │
+        ▼
+MySQL Star Schema Data Warehouse
+(Dimensions + Fact Table)
+        │
+        ▼
+SQL Business Analysis
+        │
+        ▼
+Power BI Interactive Dashboard
+        │
+        ▼
+Business Insights & Recommendations
+
 ---
 
-## Data Warehouse Schema
+## Data Warehouse Design
+
+The project follows a Star Schema consisting of:
 
 ### Dimension Tables
 
@@ -91,14 +112,15 @@ Raw Data → ETL Pipeline → Data Warehouse → SQL Analysis → Power BI Dashb
 
 ---
 
-## Key Insights
+## Key Business Insights
 
 - Furniture generated the highest revenue but lower profitability.
 - Office Supplies contributed the highest profit.
 - Higher discount levels significantly reduced profit margins.
-- Standard Class shipping generated the highest sales and profit.
+- Standard Class shipping generated the highest sales and overall profit.
 - Consumer segment contributed the largest share of revenue.
-- Certain products consistently generated losses despite strong sales.
+- Certain products consistently generated losses despite strong sales, highlighting opportunities for pricing or inventory optimization.
+- Regional performance varies considerably, suggesting targeted sales and marketing strategies.
 
 ---
 
@@ -128,5 +150,5 @@ sales-analytics-retail-performance
 
 Manvi Mehta
 
-BBA Business Analytics
+Business Analytics Graduate
 Manipal Academy of Higher Education
