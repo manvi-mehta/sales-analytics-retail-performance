@@ -69,7 +69,7 @@ Raw Data → ETL Pipeline → Data Warehouse → SQL Analysis → Power BI Dashb
 
 ### Executive Overview
 
-![Executive Overview](dashboard/Executive%20Overview.png)
+![Executive Overview](Executive%20Overview.png)
 
 ---
 
